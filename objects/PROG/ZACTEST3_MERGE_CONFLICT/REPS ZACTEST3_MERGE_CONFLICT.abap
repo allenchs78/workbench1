@@ -6,4 +6,4 @@
 REPORT ZACTEST3_MERGE_CONFLICT.
 
 * initial statement..
-* edit from sapgui..
+* edit from github..
