@@ -6,3 +6,4 @@
 REPORT ZACTEST3_MERGE_CONFLICT.
 
 * initial statement..
+* edit from github..
