@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT zactest1.
 
-WRITE: 'This is openSAP for gCTS'.
+WRITE: 'This is openSAP for gCTS 2'.
